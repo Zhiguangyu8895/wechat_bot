@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import itchat, time
 from itchat.content import *
 from datetime import datetime, timedelta
